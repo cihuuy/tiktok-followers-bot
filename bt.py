@@ -9,7 +9,7 @@ from account import email, password, username
 from proxies import *
 
 config = {
-    "acc": "your_account_name_here"  # Ganti "your_account_name_here" dengan nama akun yang ingin diikuti (jika diperlukan)
+    "acc": "@rayyan_icad"  # Ganti "your_account_name_here" dengan nama akun yang ingin diikuti (jika diperlukan)
 }
 
 # Creating accounts
