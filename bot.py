@@ -13,6 +13,10 @@ from tiktok import accounts
 from account import email, password, username 
 from proxies import * 
 
+config = {
+    "acc": "your_account_name_here"  # Ganti "your_account_name_here" dengan nama akun yang ingin diikuti (jika diperlukan)
+}
+
 creator.init(tiktok.com --accounts)
 def __accountCreator__():
   x=creator.newAccount(tiktok, email, password, username) 
