@@ -1,6 +1,10 @@
 # Modules
 
-import tiktok; import proxies; import creator: import account; import time 
+import tiktok; 
+import proxies; 
+import creator: 
+import account; 
+import time 
   
  import config from "config.json"
 # Creating accounts 
